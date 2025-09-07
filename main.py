@@ -15,7 +15,7 @@ from plugins.regix import restart_forwards
 
 if __name__ == "__main__":
     VJBot = VJ(
-        "VJ-Forward-Bot",
+        "Movie-area-Forward-Bot",
         bot_token=Config.BOT_TOKEN,
         api_id=Config.API_ID,
         api_hash=Config.API_HASH,
@@ -73,3 +73,4 @@ if __name__ == "__main__":
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
